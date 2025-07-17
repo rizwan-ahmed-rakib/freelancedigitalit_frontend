@@ -30,7 +30,7 @@ import {useService} from "../context_or_provider/ServiceContext";
 //   },
 //   {
 //     icon: <FaChartPie className="w-8 h-8 text-red-600" />,
-//     title: "Analyzing & Reporting",
+//     title: "Analyzing &ort Reping",
 //     desc: "Get detailed performance reports to track progress and optimize your campaigns.",
 //   },
 // ];
